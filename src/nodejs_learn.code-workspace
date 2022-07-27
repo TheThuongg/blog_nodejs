@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\reponsive\\thuctap5chaumedia"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "thuctap5chaumedia"
+	}
+}

@@ -1,4 +1,4 @@
-class SiteController{
+class SiteController {
     //  [GET] /
     home(req, res) {
         res.render('home');
@@ -10,7 +10,6 @@ class SiteController{
 
     // req : chứa thông tin các yêu cầu gửi lên từ server
     //res : lựa chọn các kêys quả trả về qua rep
-    // 
-
+    //
 }
-module.exports = new SiteController;
+module.exports = new SiteController();
